@@ -1,9 +1,9 @@
-#Pantry Pal Mobile Application
+# Pantry Pal Mobile Application
 
-##Project Overview
+## Project Overview
 Pantry Pal is a mobile application designed to simplify meal planning and cooking. It serves as a digital recipe book where users can save their favorite recipes and generate new ones using AI based on the ingredients they have available. The app aims to reduce food waste, inspire creativity in the kitchen, and make cooking accessible to everyone.
 
-##Key Features
+## Key Features
 Personal Recipe Storage:
 
 Users can save and organize their personal recipes.
@@ -12,13 +12,13 @@ Easy entry of recipe details, including ingredients and instructions.
 
 Categorization and favoriting of recipes for quick access.
 
-##AI-Powered Recipe Generation:
+## AI-Powered Recipe Generation:
 
 Users can input available ingredients, and the app will suggest recipes using AI.
 
 The AI matches ingredients with potential recipes, helping users discover new dishes.
 
-##User Interface:
+## User Interface:
 
 Intuitive and user-friendly design with light and dark mode options.
 
@@ -32,7 +32,7 @@ Step-by-step cooking instructions for each recipe.
 
 AI Integration: OpenAI API
 
-##User Experience
+## User Experience
 Daily Use: The app is designed for daily use, encouraging users to explore new recipes and save them to their digital cookbook.
 
 ##Accessibility: The app is easy to navigate with one-click transitions between screens. The interface is clear and straightforward, with zero complexity.
@@ -43,7 +43,7 @@ Daily Use: The app is designed for daily use, encouraging users to explore new r
 - Shopping Cart: A feature to help users keep track of ingredients they need to buy.
 - Meal Preparation Section: To assist users in reaching their fitness goals by planning meals in advance.
 
-##Conclusion
+## Conclusion
 Pantry Pal aims to make cooking enjoyable and efficient by simplifying meal preparation and encouraging creativity in the kitchen. 
 
 Whether you're a seasoned chef or a beginner, Pantry Pal is your go-to app for managing recipes and discovering new dishes.
