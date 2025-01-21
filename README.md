@@ -21,16 +21,22 @@ The AI matches ingredients with potential recipes, helping users discover new di
 ## User Interface:
 
 Intuitive and user-friendly design with light and dark mode options.
+
 Easy navigation for users of all ages.
+
 A clean, modern design with a bookmark feature to organize saved recipes by category.
+
 A "Favorite" screen for quick access to preferred recipes.
+
 Step-by-step cooking instructions for each recipe.
+
 AI Integration: OpenAI API
 
 ## User Experience
 Daily Use: The app is designed for daily use, encouraging users to explore new recipes and save them to their digital cookbook.
 
-## Accessibility: The app is easy to navigate with one-click transitions between screens. The interface is clear and straightforward, with zero complexity.
+## Accessibility: 
+The app is easy to navigate with one-click transitions between screens. The interface is clear and straightforward, with zero complexity.
 
 ## Future Development
 - Login/Sign-In Feature: For user authentication and security.
